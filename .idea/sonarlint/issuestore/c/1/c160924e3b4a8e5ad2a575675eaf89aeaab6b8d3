@@ -1,0 +1,7 @@
+
+
+java:S4165"bRemove this useless assignment; "type" already holds the assigned value along all execution paths.(ÊÍƒ8›½Ù«¤.
+Š
+java:S1488!"hImmediately return this expression instead of assigning it to the temporary variable "paperGeneralType".(Âêèãüÿÿÿÿ8Ôà«¤.
+L
+java:S1172"*Remove this unused method parameter "tag".(Ñ†Úúÿÿÿÿ8›½Ù«¤.

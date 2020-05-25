@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <papers xmlns:tns="http://www.example.com/papers"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:schemaLocation="http://www.example.com/papers papers.xsd">
+
+        <paper serial_number="15674" title="Fashion">
+            <paper_type>magazine</paper_type>
+            <periodical_type>monthly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2020-05-20</publishing_date>
+            <paper_characteristics>
+                <is_colour>true</is_colour>
+                <volume>45</volume>
+                <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="2674" title="Chronics">
+            <paper_type>newspaper</paper_type>
+            <periodical_type>weekly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2020-04-20</publishing_date>
+            <paper_characteristics>
+                <is_colour>false</is_colour>
+                <volume>14</volume>
+                <is_glossy>false</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="3297" title="Fast cooking">
+            <paper_type>booklet</paper_type>
+            <periodical_type>monthly</periodical_type>
+            <subscription>false</subscription>
+            <publishing_date>2020-05-19</publishing_date>
+            <paper_characteristics>
+                <is_colour>true</is_colour>
+                <volume>8</volume>
+                <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="4108" title="Clothes">
+            <paper_type>magazine</paper_type>
+            <periodical_type>monthly</periodical_type>
+            <subscription>false</subscription>
+            <publishing_date>2019-12-20</publishing_date>
+            <paper_characteristics>
+                <is_colour>true</is_colour>
+                <volume>80</volume>
+                <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="5501" title="Minsk News">
+            <paper_type>newspaper</paper_type>
+            <periodical_type>weekly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2019-10-17</publishing_date>
+            <paper_characteristics>
+            <is_colour>true</is_colour>
+            <volume>20</volume>
+            <is_glossy>false</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="6378" title="Doors">
+            <paper_type>booklet</paper_type>
+            <periodical_type>monthly</periodical_type>
+            <subscription>false</subscription>
+            <publishing_date>2020-01-20</publishing_date>
+            <paper_characteristics>
+            <is_colour>true</is_colour>
+            <volume>10</volume>
+            <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="7123" title="Real Motors">
+            <paper_type>magazine</paper_type>
+            <periodical_type>monthly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2020-03-06</publishing_date>
+            <paper_characteristics>
+            <is_colour>true</is_colour>
+            <volume>100</volume>
+            <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="8902" title="Daily life">
+            <paper_type>newspaper</paper_type>
+            <periodical_type>weekly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2020-05-12</publishing_date>
+            <paper_characteristics>
+            <is_colour>true</is_colour>
+            <volume>12</volume>
+            <is_glossy>false</is_glossy>
+            </paper_characteristics>
+        </paper>
+        <paper serial_number="9108" title="Cosmetics">
+            <paper_type>booklet</paper_type>
+            <periodical_type>weekly</periodical_type>
+            <subscription>true</subscription>
+            <publishing_date>2020-02-07</publishing_date>
+            <paper_characteristics>
+            <is_colour>true</is_colour>
+            <volume>20</volume>
+            <is_glossy>true</is_glossy>
+            </paper_characteristics>
+        </paper>
+    </papers>

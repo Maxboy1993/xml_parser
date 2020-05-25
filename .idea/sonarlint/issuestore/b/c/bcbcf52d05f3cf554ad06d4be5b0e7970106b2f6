@@ -1,0 +1,14 @@
+
+O
+java:S1481$"-Remove this unused "students" local variable.(ä°’Óùÿÿÿÿ8·×¾¸¤.
+O
+java:S1128	"-Remove this unused import 'org.w3c.dom.Node'.(ùŠÿËıÿÿÿÿ8½ï¸¤.
+J
+java:S2755"-Disable XML external entity (XXE) processing.(×§°8Å½Ñ¸¤.
+^
+java:S1854$"<Remove this useless assignment to local variable "students".(ä°’Óùÿÿÿÿ8·×¾¸¤.
+e
+java:S1128"CRemove this unused import 'by.nareiko.xml.parser.PaperGeneralType'.(üğ¢ùÿÿÿÿ8½ï¸¤.
+N
+java:S1128
+"1Remove this unused import 'org.w3c.dom.NodeList'.(ÂÈÃ‚8½ï¸¤.

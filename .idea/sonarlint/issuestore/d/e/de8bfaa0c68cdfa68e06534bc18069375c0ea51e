@@ -1,0 +1,11 @@
+
+Z
+java:S1854h"8Remove this useless assignment to local variable "name".(†îÒìüÿÿÿÿ8Ç­¬¾¤.
+h
+java:S1301-"KReplace this "switch" statement by "if" statements to increase readability.(û¨êµ8Ç­¬¾¤.
+>	java:S131-""Add a default case to this switch.(û¨êµ8Ç­¬¾¤.
+J
+java:S2755"-Disable XML external entity (XXE) processing.(ø£ƒó8Ç­¬¾¤.
+g
+java:S1301B"KReplace this "switch" statement by "if" statements to increase readability.(ôƒ´<8Ç­¬¾¤.
+=	java:S131B""Add a default case to this switch.(ôƒ´<8Ç­¬¾¤.

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1ff5c6e-ffa4-4b94-ac83-c2ec4c087f88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZhSQSzhuPpMjss9uoCVjDV9zdx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/by/nareiko" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/testng-7.0.0.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.nareiko.xml.parser.sax" />
+      <recent name="test.by.nareiko.shape.validator" />
+      <recent name="test.by.nareiko.shape.dao.impl" />
+      <recent name="by.nareiko.shapes.parser.impl" />
+      <recent name="by.nareiko.shapes.creator.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="by.nareiko.shape.parser.impl" />
+      <recent name="temp.shapes" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.nareiko.xml.parser" />
+      <recent name="by.nareiko.shapes.entity" />
+      <recent name="by.nareiko.shapes.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\EPAM\resources\data" />
+      <recent name="D:\EPAM\src\by\nareiko\xml\parser" />
+      <recent name="D:\NareikoML\src\by\nareiko\shapes\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SAXParser">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.nareiko.multithreading.runner.Main" />
+      <module name="NareikoML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.nareiko.multithreading.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAXParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.nareiko.xml.parser.sax.SAXParser" />
+      <module name="NareikoML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.nareiko.xml.parser.sax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SAXParserTest.testBuildPapers" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NareikoML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.nareiko.xml.parser.sax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.nareiko.xml.parser.sax" />
+      <option name="MAIN_CLASS_NAME" value="by.nareiko.xml.parser.sax.SAXParserTest" />
+      <option name="METHOD_NAME" value="testBuildPapers" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleValidatorTest.testIsPointsNoOnOneStraightLine" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NareikoML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.by.nareiko.shape.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.by.nareiko.shape.validator" />
+      <option name="MAIN_CLASS_NAME" value="test.by.nareiko.shape.validator.TriangleValidatorTest" />
+      <option name="METHOD_NAME" value="testIsPointsNoOnOneStraightLine" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleValidatorTest.testTestIsTriangle" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NareikoML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.by.nareiko.shape.validator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.by.nareiko.shape.validator" />
+      <option name="MAIN_CLASS_NAME" value="test.by.nareiko.shape.validator.TriangleValidatorTest" />
+      <option name="METHOD_NAME" value="testTestIsTriangle" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SAXParser" />
+        <item itemvalue="TestNG.SAXParserTest.testBuildPapers" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.TriangleValidatorTest.testIsPointsNoOnOneStraightLine" />
+        <item itemvalue="TestNG.TriangleValidatorTest.testTestIsTriangle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ff5c6e-ffa4-4b94-ac83-c2ec4c087f88" name="Default Changelist" comment="" />
+      <created>1585289816701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585289816701</updated>
+      <workItem from="1585289818785" duration="2209000" />
+      <workItem from="1585634669125" duration="64000" />
+      <workItem from="1585635962712" duration="25448000" />
+      <workItem from="1585768179392" duration="2433000" />
+      <workItem from="1585984116427" duration="1448000" />
+      <workItem from="1585985662840" duration="3309000" />
+      <workItem from="1586180174894" duration="2266000" />
+      <workItem from="1586240236712" duration="9689000" />
+      <workItem from="1586261473841" duration="11443000" />
+      <workItem from="1586326337365" duration="3480000" />
+      <workItem from="1586329869932" duration="577000" />
+      <workItem from="1586330591275" duration="135000" />
+      <workItem from="1586330851626" duration="5142000" />
+      <workItem from="1586347976492" duration="3413000" />
+      <workItem from="1586501443787" duration="7318000" />
+      <workItem from="1586593413540" duration="598000" />
+      <workItem from="1586935888467" duration="768000" />
+      <workItem from="1588921886797" duration="1255000" />
+      <workItem from="1589029593095" duration="3863000" />
+      <workItem from="1589092320356" duration="4442000" />
+      <workItem from="1589126218617" duration="4841000" />
+      <workItem from="1589352666807" duration="1401000" />
+      <workItem from="1589522584362" duration="4329000" />
+      <workItem from="1589705470164" duration="11097000" />
+      <workItem from="1589751094521" duration="431000" />
+      <workItem from="1589815023786" duration="101000" />
+      <workItem from="1589893196208" duration="6692000" />
+      <workItem from="1589951630111" duration="7267000" />
+      <workItem from="1590149755659" duration="2594000" />
+      <workItem from="1590215777527" duration="11463000" />
+      <workItem from="1590299285681" duration="14548000" />
+      <workItem from="1590339581514" duration="1772000" />
+      <workItem from="1590341609137" duration="131000" />
+      <workItem from="1590341814272" duration="40000" />
+      <workItem from="1590341950143" duration="2267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="152" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589904318553">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="389" y="152" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1589904318553" />
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1590305973382">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="357" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1024.738@0.0.1024.738" timestamp="1586352167280" />
+    <state x="446" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1590305973382" />
+    <state x="371" y="125" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1590342892256">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="134" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1024.738@0.0.1024.738" timestamp="1586277357496" />
+    <state x="371" y="125" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1590342892256" />
+    <state x="364" y="121" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590342873064">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="364" y="121" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.689@0.0.1280.689" timestamp="1590342873064" />
+    <state x="248" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590307344087">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="198" y="295" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1024.738@0.0.1024.738" timestamp="1586277264698" />
+    <state x="248" y="275" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.689@0.0.1280.689" timestamp="1590307344087" />
+    <state x="432" y="209" width="416" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586330163558">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="432" y="209" width="416" height="277" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.689@0.0.1280.689" timestamp="1586330163558" />
+    <state x="432" y="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586329357707">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="432" y="232" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.689@0.0.1280.689" timestamp="1586329357707" />
+    <state x="303" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590302970719">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.689@0.0.1280.689" timestamp="1590302970719" />
+    <state x="371" y="94" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590307368149">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="371" y="94" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1590307368149" />
+    <state x="327" y="88" key="FileChooserDialogImpl" timestamp="1590342499484">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="327" y="88" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1590342499484" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom" timestamp="1590352133805">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="181" key="GridCell.Tab.0.bottom/0.0.1024.738@0.0.1024.738" timestamp="1586278933083" />
+    <state width="1237" height="170" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1590352133805" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center" timestamp="1590352133805">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="181" key="GridCell.Tab.0.center/0.0.1024.738@0.0.1024.738" timestamp="1586278933083" />
+    <state width="1237" height="170" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1590352133805" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left" timestamp="1590352133804">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="181" key="GridCell.Tab.0.left/0.0.1024.738@0.0.1024.738" timestamp="1586278933083" />
+    <state width="1237" height="170" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1590352133804" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right" timestamp="1590352133805">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="181" key="GridCell.Tab.0.right/0.0.1024.738@0.0.1024.738" timestamp="1586278933083" />
+    <state width="1237" height="170" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1590352133805" />
+    <state width="981" height="226" key="GridCell.Tab.1.bottom" timestamp="1586326148676">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="226" key="GridCell.Tab.1.bottom/0.0.1024.738@0.0.1024.738" timestamp="1586275803123" />
+    <state width="981" height="226" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1586326148676" />
+    <state width="981" height="226" key="GridCell.Tab.1.center" timestamp="1586326148675">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="226" key="GridCell.Tab.1.center/0.0.1024.738@0.0.1024.738" timestamp="1586275803123" />
+    <state width="981" height="226" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1586326148675" />
+    <state width="981" height="226" key="GridCell.Tab.1.left" timestamp="1586326148675">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="226" key="GridCell.Tab.1.left/0.0.1024.738@0.0.1024.738" timestamp="1586275803123" />
+    <state width="981" height="226" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1586326148675" />
+    <state width="981" height="226" key="GridCell.Tab.1.right" timestamp="1586326148676">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="981" height="226" key="GridCell.Tab.1.right/0.0.1024.738@0.0.1024.738" timestamp="1586275803123" />
+    <state width="981" height="226" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1586326148676" />
+    <state x="295" y="162" key="RefactorX.RenameTag" timestamp="1590223600098">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="295" y="162" key="RefactorX.RenameTag/0.0.1280.689@0.0.1280.689" timestamp="1590223600098" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1590342507853">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1024.738@0.0.1024.738" timestamp="1586275798241" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1590342507853" />
+    <state x="449" y="125" key="chooseDestDirectoryDialog" timestamp="1589352766781">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="449" y="125" key="chooseDestDirectoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1589352766781" />
+    <state x="340" y="173" key="com.intellij.ide.util.TipDialog" timestamp="1590342008221">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="340" y="173" key="com.intellij.ide.util.TipDialog/0.0.1280.689@0.0.1280.689" timestamp="1590342008221" />
+    <state x="216" y="269" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586276817331">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="216" y="269" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1024.738@0.0.1024.738" timestamp="1586276817331" />
+    <state x="405" y="61" width="488" height="543" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590342896293">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="324" y="65" width="488" height="543" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1024.738@0.0.1024.738" timestamp="1586277377534" />
+    <state x="405" y="61" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.689@0.0.1280.689" timestamp="1590342896293" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1589093197961">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1589093197961" />
+    <state x="303" y="10" key="search.everywhere.popup" timestamp="1590154871854">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1590154871854" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/nareiko/multithreading/entity/Pier.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NareikoML$TriangleCreatorImplTest_testCreateTriangles.ic" NAME="TriangleCreatorImplTest.testCreateTriangles Coverage Results" MODIFIED="1586278932714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>by.nareiko.shapes.creator.impl.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+
+z
+java:S14886"]Immediately return this expression instead of assigning it to the temporary variable "value".(œ€¨“8Âªü·¤.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(—©åøÿÿÿÿ8Âªü·¤.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Âªü·¤.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(“œÒı8Âªü·¤.
+z
+java:S1488/"]Immediately return this expression instead of assigning it to the temporary variable "child".(Òìÿ±8Âªü·¤.

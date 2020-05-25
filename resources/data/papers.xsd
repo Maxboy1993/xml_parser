@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.com/papers"
+        xmlns:tns="http://www.example.com/papers"
+        elementFormDefault="qualified">
+  <element name="papers">
+    <complexType>
+      <sequence>
+        <element name="paper"
+                 type="tns:Paper"
+                 minOccurs="1"
+                 maxOccurs="unbounded"/>
+      </sequence>
+    </complexType>
+  </element>
+
+  <complexType name="Paper">
+    <sequence>
+      <element name="paper_type" type="tns:PaperType"/>
+      <element name="periodical_type" type="tns:PeriodicalType"/>
+      <element name="subscription" type="boolean"/>
+      <element name="publishing_date" type="tns:PublishingDate"/>
+      <element name="paper_characteristics" type="tns:PaperCharacteristics"/>
+      <element name="cost" type="decimal"/>
+    </sequence>
+    <attribute name="id" type="tns:id" use="required"/>
+    <attribute name="title" type="string" use="required"/>
+  </complexType>
+
+  <simpleType name="id">
+    <restriction base="ID">
+      <pattern value="[0-9]{4}"/>
+    </restriction>
+  </simpleType>
+
+  <simpleType name="title">
+    <restriction base="string">
+      <pattern value="[a-zA-z0-9]+"/>
+    </restriction>
+  </simpleType>
+
+  <simpleType name="PeriodicalType">
+    <restriction base="string">
+      <enumeration value="monthly"/>
+      <enumeration value="weekly"/>
+    </restriction>
+  </simpleType>
+
+  <simpleType name="PaperType">
+    <restriction base="string">
+      <enumeration value="magazine"/>
+      <enumeration value="newspaper"/>
+      <enumeration value="booklet"/>
+    </restriction>
+  </simpleType>
+
+  <complexType name="PaperCharacteristics">
+    <sequence>
+      <element name="is_colour" type="boolean"/>
+      <element name="volume" type="decimal"/>
+      <element name="is_glossy" type="boolean"/>
+    </sequence>
+  </complexType>
+
+  <complexType name="PublishingDate">
+    <sequence>
+      <element name="publishing_date" type="date"/>
+    </sequence>
+  </complexType>
+</schema>
